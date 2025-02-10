@@ -7,7 +7,26 @@
 //Teste larissa
 
 int main() {
+    char pais[20];
+    char estado[20];
+    char cidade[20];
+    float area;
+    double pib;
+    int p_turisticos;
+
+
+
     printf("Desafio Super Trunfo:\n");
+
+    printf("Cadastre suas cartas: \n");
+
+    printf("Vamos começar: \nDigite abaixo o nome do país:");
+    
+
+
+
+
+
 
     return 0;
 }
