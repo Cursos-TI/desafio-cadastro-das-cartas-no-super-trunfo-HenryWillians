@@ -121,7 +121,7 @@ int main() {
 
     printf("Super poder, a carta 1 venceu: %d\n", superpoder1 > superpoder2);
 
-    printf("### Muito Obrigado por jogar o Super-trunfo! Te vejo na próxima ;D");
+    printf("### Muito Obrigado por jogar o Super-trunfo! Te vejo na próxima! ;D");
 
 
     return 0;
