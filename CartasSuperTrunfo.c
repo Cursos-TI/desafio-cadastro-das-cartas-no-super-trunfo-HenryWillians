@@ -12,6 +12,7 @@ int main() {
 
     //cadastro da carta 1
     printf("***Desafio Super Trunfo***\n");
+    printf("OBSERVAÇÃO IMPORTANTE:\n PARA CADASTRAR CIDADES COM ESPAÇO NO NOME, UTILIZAR O '_'.\nEXEMPLO: São_Paulo\n");
     printf("Cadastre suas cartas: \n");
 
     printf("Vamos começar com a carta 01: \nDigite abaixo o nome do país:\n");
