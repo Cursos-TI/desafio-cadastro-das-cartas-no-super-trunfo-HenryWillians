@@ -7,7 +7,7 @@ int main() {
     char estado1[20];
     char cidade1[20];
     float area1;
-    unsigned long long int pib1;
+    unsigned long int pib1;
     int p_turisticos1;
     unsigned int populacao1;
     float pib_per_capta1;
